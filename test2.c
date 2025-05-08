@@ -23,14 +23,7 @@ int main() {
     printf("LLONG_MAX     : %lld\n", LLONG_MAX);
     printf("ULLONG_MAX    : %llu\n\n", ULLONG_MAX);
 
-    // Floating point types
-    printf("Floating-Point Data Type Limits:\n");
-    printf("FLT_MIN       : %e\n", FLT_MIN);
-    printf("FLT_MAX       : %e\n", FLT_MAX);
-    printf("DBL_MIN       : %e\n", DBL_MIN);
-    printf("DBL_MAX       : %e\n", DBL_MAX);
-    printf("LDBL_MIN      : %Le\n", LDBL_MIN);
-    printf("LDBL_MAX      : %Le\n", LDBL_MAX);
+  
 
     return 0;
 }
